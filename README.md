@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArexanK
 - 👀 I’m interested in Front-end development en design
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind,SASS, Javascript, React
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind, SASS, Javascript, React, NPM
 - 💞️ I'm proud of who i am, what i've built and what i'm building
 - 💞️ I'm looking to collaborate with other frontend developers  
 - 📫 The best way to reach me is to send me an email
