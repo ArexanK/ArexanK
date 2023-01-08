@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArexanK
 - 👀 I’m interested in Front-end development en design
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Svelte, Figma/Adobe, Node.js, Next.js, NPM
+- 🌱 I’m currently learning HTML, CSS, Javascript, React,Typescript, Svelte, Figma/Adobe, Node.js, Next.js, NPM
 - 👾 I'm looking to collaborate with other frontend developers  
 
 
