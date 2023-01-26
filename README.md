@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArexanK
-- 🖥 Currently studying Front-end development en design
+- 🖥 Studying Front-end development en design
 - 📚 I’m currently learning HTML, CSS, Javascript, React,Typescript, Svelte, Figma/Adobe, Node.js, Next.js, NPM
 - 👥 I'm looking to collaborate with other frontend developers  
 
