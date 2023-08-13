@@ -1,5 +1,5 @@
 
-- 🖥 Studying Front-end development en design
+
 
 
 
