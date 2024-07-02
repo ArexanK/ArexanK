@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArexanK.ArexanK"/>
 
-<h1 align="center"> Hello My name is Arexan 👩🏽‍💻
+<h1 align="center"> Hi i'm Arexan 👩🏽‍💻 <br>
+  a passionate front-end developer from the Netherlands
 </h1>
 
 <hr/>
