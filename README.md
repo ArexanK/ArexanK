@@ -7,7 +7,15 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
   </a>
 </h1>
 
-
+<hr/>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,express,react,typescript,svelte"/><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git">
+</a>
+</div>
 
 
 
