@@ -17,7 +17,7 @@
 </a>
 </div>
 
-<h2 align="center"> Stats </h2>
+<h2 align="center"> Streak </h2>
 <br>
 <h2 align="center">
 <img width=390 src="https://streak-stats.demolab.com/?user=ArexanK&count_private=true&border_radius=10" alt="streak stats"/>
