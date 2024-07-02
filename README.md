@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+i'm+Arexan;+and+i'm+a+Frontend+developer+👩🏽‍💻;"/>
+<img src="https://readme-typing-svg.herokuapp.com/
+  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+i'm+Arexan;+and+i'm+a+Frontend+developer+👩🏽‍💻;"/>
   </a>
 </h1>
 
@@ -21,8 +21,8 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 <br>
 <h2 align="center">
 <img width=390 src="https://streak-stats.demolab.com/?user=ArexanK&count_private=true&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats-ArexanK/api?username=ArexanK&countprivate=true&show+icons=true&there=react&rank_icon=github&border_radius10" alt="readme stats" />
-<br/>
+<img width=325 align="center" src="https//github-readme-stats-ArexanK
+
 
 
 
