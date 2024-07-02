@@ -17,6 +17,13 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 </a>
 </div>
 
+<h2 align="center"> Stats </h2>
+<br>
+<h2 align="center">
+<img width=390 src="https://streak-stats.demolab.com/?user=ArexanK&count_private=true&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-state-ArexanK/api?username=ArexanK&countprivate=true&show+icons=true&there=react&rank_icon=github&border_radius10" alt="readme stats" />
+<br/>
+
 
 
 
